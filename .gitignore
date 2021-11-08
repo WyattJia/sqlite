@@ -1,0 +1,11 @@
+.idea/
+
+autom4te.cache/
+config.h
+config.h.in~
+config.log
+config.status
+configure~
+libtool
+sqlite3.pc
+
